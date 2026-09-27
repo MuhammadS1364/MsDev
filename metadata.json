@@ -1,0 +1,7 @@
+{
+  "name": "MSDev Studio & Productivity Dashboard",
+  "description": "Minimalist productivity dashboard and portfolio system for MSDev (Shafee Alam) featuring high-thinking architecture consulting and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
